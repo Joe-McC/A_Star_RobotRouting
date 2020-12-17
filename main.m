@@ -8,7 +8,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% This is the main function which meets the crtieria set out IMAT5121_Handout_201920.pdf 
+%% 
 % This function should be run following the allocation of a server side port using V-REP
 % Once connected, sensors are polled, before a logic state machine chooses
 % one of the following states:
